@@ -1,5 +1,5 @@
 
-<img src="doc/sphinx/source/Wavefield_snapshot.png" width="10%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="doc/sphinx/source/wavefield_screenshot.png" width="10%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
 # AxiSEM3D
 
 
