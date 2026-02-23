@@ -1,7 +1,6 @@
 
-<img src="doc/sphinx/source/wavefield_screenshot.png" width="10%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="<img src="https://raw.githubusercontent.com/benjaminfernando/axisem3d_hackathon/master/doc/sphinx/source/wavefield_screenshot.png" width="140" />" width="10%" /> &nbsp;&nbsp;&nbsp;&nbsp; 
 # AxiSEM3D
-
 
 <!--
 [View](https://lsd-sphinx.readthedocs.io/en/latest/index.html) this document in readthedocs.
